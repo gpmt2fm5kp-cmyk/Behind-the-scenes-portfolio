@@ -9,7 +9,7 @@ body {
   
 html {
   min-height: 100%;
-  background: linear-gradient(to bottom, #f7f3ee 40%, #e9cbd2 100%);
+  background: linear-gradient(to bottom, #f7f3ee 0%, #f0d5dc 55%, #d4a0af 100%);
 }
 
 body {
