@@ -61,5 +61,16 @@ button {
   border-bottom: 3px solid #a9697c;
   padding-bottom: 8px;
 }
-  
+
+  h1 {
+  display: block;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
+
+h2,
+.assignment-grid h3 {
+  text-align: center;
+}
+
